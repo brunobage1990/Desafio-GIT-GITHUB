@@ -1,0 +1,3 @@
+Link para fazer algumas tarefas no git(https://comandosgit.github.io/)
+Alguns comandos para trabalhar
+Link para downloads do git(https://git-scm.com/downloads)
